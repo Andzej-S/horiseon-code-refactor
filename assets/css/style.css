@@ -146,6 +146,6 @@ elements before h3 to match the flow of html file */
 }
 
 /* Changed footer sequence to match html file */
-.footer h4 {
+.footer h3 {
     font-size: 20px;
 }
